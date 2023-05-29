@@ -1,2 +1,3 @@
 # todolist_app_flutter
-My first functional app made it with Dart and Flutter
+A Flutter App for list your tasks for the day, week or month .
+It's my first functional Flutter App.
